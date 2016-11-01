@@ -1,3 +1,5 @@
+DEPRECATED FOR: https://github.com/zalando/planb-cassandra
+
 # STUPS Cassandra
 
 STUPS Cassandra is a [Senza](https://stups.io/senza/) appliance for the 
